@@ -1,0 +1,359 @@
+[
+  {
+    "state": "Alabama",
+    "MentalHealthStatisticsRatesOfMentalIllness": 21.24,
+    "MentalHealthStatisticsAdultsWithAnxietyOrDepresion": 38.2,
+    "MentalHealthStatisticsAdultsWithSevereMentalIllness": 5.6,
+    "MentalHealthStatisticsOverallMentalHealthStandingYouthAdults": 44
+  },
+  {
+    "state": "Alaska",
+    "MentalHealthStatisticsRatesOfMentalIllness": 22.2,
+    "MentalHealthStatisticsAdultsWithAnxietyOrDepresion": 31.6,
+    "MentalHealthStatisticsAdultsWithSevereMentalIllness": 5.9,
+    "MentalHealthStatisticsOverallMentalHealthStandingYouthAdults": 46
+  },
+  {
+    "state": "Arizona",
+    "MentalHealthStatisticsRatesOfMentalIllness": 23.89,
+    "MentalHealthStatisticsAdultsWithAnxietyOrDepresion": 33.2,
+    "MentalHealthStatisticsAdultsWithSevereMentalIllness": 5.6,
+    "MentalHealthStatisticsOverallMentalHealthStandingYouthAdults": 48
+  },
+  {
+    "state": "Arkansas",
+    "MentalHealthStatisticsRatesOfMentalIllness": 22.61,
+    "MentalHealthStatisticsAdultsWithAnxietyOrDepresion": 30.6,
+    "MentalHealthStatisticsAdultsWithSevereMentalIllness": 5.5,
+    "MentalHealthStatisticsOverallMentalHealthStandingYouthAdults": 38
+  },
+  {
+    "state": "California",
+    "MentalHealthStatisticsRatesOfMentalIllness": 20.49,
+    "MentalHealthStatisticsAdultsWithAnxietyOrDepresion": 32.6,
+    "MentalHealthStatisticsAdultsWithSevereMentalIllness": 4.5,
+    "MentalHealthStatisticsOverallMentalHealthStandingYouthAdults": 23
+  },
+  {
+    "state": "Colorado",
+    "MentalHealthStatisticsRatesOfMentalIllness": 23.16,
+    "MentalHealthStatisticsAdultsWithAnxietyOrDepresion": 32.1,
+    "MentalHealthStatisticsAdultsWithSevereMentalIllness": 5.5,
+    "MentalHealthStatisticsOverallMentalHealthStandingYouthAdults": 36
+  },
+  {
+    "state": "Connecticut",
+    "MentalHealthStatisticsRatesOfMentalIllness": 18.77,
+    "MentalHealthStatisticsAdultsWithAnxietyOrDepresion": 30.5,
+    "MentalHealthStatisticsAdultsWithSevereMentalIllness": 4.5,
+    "MentalHealthStatisticsOverallMentalHealthStandingYouthAdults": 4
+  },
+  {
+    "state": "Delaware",
+    "MentalHealthStatisticsRatesOfMentalIllness": 20.52,
+    "MentalHealthStatisticsAdultsWithAnxietyOrDepresion": 30.7,
+    "MentalHealthStatisticsAdultsWithSevereMentalIllness": 5.4,
+    "MentalHealthStatisticsOverallMentalHealthStandingYouthAdults": 21
+  },
+  {
+    "state": "Florida",
+    "MentalHealthStatisticsRatesOfMentalIllness": 17.49,
+    "MentalHealthStatisticsAdultsWithAnxietyOrDepresion": 33.7,
+    "MentalHealthStatisticsAdultsWithSevereMentalIllness": 4.3,
+    "MentalHealthStatisticsOverallMentalHealthStandingYouthAdults": 27
+  },
+  {
+    "state": "Georgia",
+    "MentalHealthStatisticsRatesOfMentalIllness": 17.55,
+    "MentalHealthStatisticsAdultsWithAnxietyOrDepresion": 33.6,
+    "MentalHealthStatisticsAdultsWithSevereMentalIllness": 4.5,
+    "MentalHealthStatisticsOverallMentalHealthStandingYouthAdults": 26
+  },
+  {
+    "state": "Hawaii",
+    "MentalHealthStatisticsRatesOfMentalIllness": 17.86,
+    "MentalHealthStatisticsAdultsWithAnxietyOrDepresion": 23.9,
+    "MentalHealthStatisticsAdultsWithSevereMentalIllness": 4.2,
+    "MentalHealthStatisticsOverallMentalHealthStandingYouthAdults": 14
+  },
+  {
+    "state": "Idaho",
+    "MentalHealthStatisticsRatesOfMentalIllness": 24.92,
+    "MentalHealthStatisticsAdultsWithAnxietyOrDepresion": 35.9,
+    "MentalHealthStatisticsAdultsWithSevereMentalIllness": 5.3,
+    "MentalHealthStatisticsOverallMentalHealthStandingYouthAdults": 49
+  },
+  {
+    "state": "Illinois",
+    "MentalHealthStatisticsRatesOfMentalIllness": 20.72,
+    "MentalHealthStatisticsAdultsWithAnxietyOrDepresion": 28.5,
+    "MentalHealthStatisticsAdultsWithSevereMentalIllness": 4.5,
+    "MentalHealthStatisticsOverallMentalHealthStandingYouthAdults": 12
+  },
+  {
+    "state": "Indiana",
+    "MentalHealthStatisticsRatesOfMentalIllness": 21.83,
+    "MentalHealthStatisticsAdultsWithAnxietyOrDepresion": 31.2,
+    "MentalHealthStatisticsAdultsWithSevereMentalIllness": 5.4,
+    "MentalHealthStatisticsOverallMentalHealthStandingYouthAdults": 41
+  },
+  {
+    "state": "Iowa",
+    "MentalHealthStatisticsRatesOfMentalIllness": 21,
+    "MentalHealthStatisticsAdultsWithAnxietyOrDepresion": 27.8,
+    "MentalHealthStatisticsAdultsWithSevereMentalIllness": 5.4,
+    "MentalHealthStatisticsOverallMentalHealthStandingYouthAdults": 22
+  },
+  {
+    "state": "Kansas",
+    "MentalHealthStatisticsRatesOfMentalIllness": 26.02,
+    "MentalHealthStatisticsAdultsWithAnxietyOrDepresion": 32,
+    "MentalHealthStatisticsAdultsWithSevereMentalIllness": 5.7,
+    "MentalHealthStatisticsOverallMentalHealthStandingYouthAdults": 40
+  },
+  {
+    "state": "Kentucky",
+    "MentalHealthStatisticsRatesOfMentalIllness": 21.91,
+    "MentalHealthStatisticsAdultsWithAnxietyOrDepresion": 35.9,
+    "MentalHealthStatisticsAdultsWithSevereMentalIllness": 5.8,
+    "MentalHealthStatisticsOverallMentalHealthStandingYouthAdults": 15
+  },
+  {
+    "state": "Louisiana",
+    "MentalHealthStatisticsRatesOfMentalIllness": 21.18,
+    "MentalHealthStatisticsAdultsWithAnxietyOrDepresion": 39.2,
+    "MentalHealthStatisticsAdultsWithSevereMentalIllness": 5.3,
+    "MentalHealthStatisticsOverallMentalHealthStandingYouthAdults": 18
+  },
+  {
+    "state": "Maine",
+    "MentalHealthStatisticsRatesOfMentalIllness": 21.61,
+    "MentalHealthStatisticsAdultsWithAnxietyOrDepresion": 27.5,
+    "MentalHealthStatisticsAdultsWithSevereMentalIllness": 6,
+    "MentalHealthStatisticsOverallMentalHealthStandingYouthAdults": 8
+  },
+  {
+    "state": "Maryland",
+    "MentalHealthStatisticsRatesOfMentalIllness": 17.8,
+    "MentalHealthStatisticsAdultsWithAnxietyOrDepresion": 29.1,
+    "MentalHealthStatisticsAdultsWithSevereMentalIllness": 4.5,
+    "MentalHealthStatisticsOverallMentalHealthStandingYouthAdults": 9
+  },
+  {
+    "state": "Massachusetts",
+    "MentalHealthStatisticsRatesOfMentalIllness": 21.39,
+    "MentalHealthStatisticsAdultsWithAnxietyOrDepresion": 30.7,
+    "MentalHealthStatisticsAdultsWithSevereMentalIllness": 5.2,
+    "MentalHealthStatisticsOverallMentalHealthStandingYouthAdults": 1
+  },
+  {
+    "state": "Michigan",
+    "MentalHealthStatisticsRatesOfMentalIllness": 22.33,
+    "MentalHealthStatisticsAdultsWithAnxietyOrDepresion": 32.1,
+    "MentalHealthStatisticsAdultsWithSevereMentalIllness": 5,
+    "MentalHealthStatisticsOverallMentalHealthStandingYouthAdults": 17
+  },
+  {
+    "state": "Minnesota",
+    "MentalHealthStatisticsRatesOfMentalIllness": 23.23,
+    "MentalHealthStatisticsAdultsWithAnxietyOrDepresion": 26.8,
+    "MentalHealthStatisticsAdultsWithSevereMentalIllness": 4.9,
+    "MentalHealthStatisticsOverallMentalHealthStandingYouthAdults": 10
+  },
+  {
+    "state": "Mississippi",
+    "MentalHealthStatisticsRatesOfMentalIllness": 21.06,
+    "MentalHealthStatisticsAdultsWithAnxietyOrDepresion": 32.6,
+    "MentalHealthStatisticsAdultsWithSevereMentalIllness": 5.2,
+    "MentalHealthStatisticsOverallMentalHealthStandingYouthAdults": 35
+  },
+  {
+    "state": "Missouri",
+    "MentalHealthStatisticsRatesOfMentalIllness": 21.32,
+    "MentalHealthStatisticsAdultsWithAnxietyOrDepresion": 30.2,
+    "MentalHealthStatisticsAdultsWithSevereMentalIllness": 5.6,
+    "MentalHealthStatisticsOverallMentalHealthStandingYouthAdults": 39
+  },
+  {
+    "state": "Montana",
+    "MentalHealthStatisticsRatesOfMentalIllness": 23.43,
+    "MentalHealthStatisticsAdultsWithAnxietyOrDepresion": 32.2,
+    "MentalHealthStatisticsAdultsWithSevereMentalIllness": 5.2,
+    "MentalHealthStatisticsOverallMentalHealthStandingYouthAdults": 20
+  },
+  {
+    "state": "Nebraska",
+    "MentalHealthStatisticsRatesOfMentalIllness": 23.41,
+    "MentalHealthStatisticsAdultsWithAnxietyOrDepresion": 26.9,
+    "MentalHealthStatisticsAdultsWithSevereMentalIllness": 4.9,
+    "MentalHealthStatisticsOverallMentalHealthStandingYouthAdults": 25
+  },
+  {
+    "state": "Nevada",
+    "MentalHealthStatisticsRatesOfMentalIllness": 21.38,
+    "MentalHealthStatisticsAdultsWithAnxietyOrDepresion": 32.6,
+    "MentalHealthStatisticsAdultsWithSevereMentalIllness": 5.6,
+    "MentalHealthStatisticsOverallMentalHealthStandingYouthAdults": 50
+  },
+  {
+    "state": "New Hampshire",
+    "MentalHealthStatisticsRatesOfMentalIllness": 23.74,
+    "MentalHealthStatisticsAdultsWithAnxietyOrDepresion": 31.5,
+    "MentalHealthStatisticsAdultsWithSevereMentalIllness": 4.9,
+    "MentalHealthStatisticsOverallMentalHealthStandingYouthAdults": 13
+  },
+  {
+    "state": "New Jersey",
+    "MentalHealthStatisticsRatesOfMentalIllness": 18.27,
+    "MentalHealthStatisticsAdultsWithAnxietyOrDepresion": 24.4,
+    "MentalHealthStatisticsAdultsWithSevereMentalIllness": 4.1,
+    "MentalHealthStatisticsOverallMentalHealthStandingYouthAdults": 2
+  },
+  {
+    "state": "New Mexico",
+    "MentalHealthStatisticsRatesOfMentalIllness": 21.16,
+    "MentalHealthStatisticsAdultsWithAnxietyOrDepresion": 32.1,
+    "MentalHealthStatisticsAdultsWithSevereMentalIllness": 5.3,
+    "MentalHealthStatisticsOverallMentalHealthStandingYouthAdults": 34
+  },
+  {
+    "state": "New York",
+    "MentalHealthStatisticsRatesOfMentalIllness": 18.83,
+    "MentalHealthStatisticsAdultsWithAnxietyOrDepresion": 34.1,
+    "MentalHealthStatisticsAdultsWithSevereMentalIllness": 4.4,
+    "MentalHealthStatisticsOverallMentalHealthStandingYouthAdults": 6
+  },
+  {
+    "state": "North Carolina",
+    "MentalHealthStatisticsRatesOfMentalIllness": 19.8,
+    "MentalHealthStatisticsAdultsWithAnxietyOrDepresion": 30.1,
+    "MentalHealthStatisticsAdultsWithSevereMentalIllness": 4.8,
+    "MentalHealthStatisticsOverallMentalHealthStandingYouthAdults": 30
+  },
+  {
+    "state": "North Dakota",
+    "MentalHealthStatisticsRatesOfMentalIllness": 20.79,
+    "MentalHealthStatisticsAdultsWithAnxietyOrDepresion": 30.4,
+    "MentalHealthStatisticsAdultsWithSevereMentalIllness": 5,
+    "MentalHealthStatisticsOverallMentalHealthStandingYouthAdults": 28
+  },
+  {
+    "state": "Ohio",
+    "MentalHealthStatisticsRatesOfMentalIllness": 24.32,
+    "MentalHealthStatisticsAdultsWithAnxietyOrDepresion": 35.2,
+    "MentalHealthStatisticsAdultsWithSevereMentalIllness": 6.3,
+    "MentalHealthStatisticsOverallMentalHealthStandingYouthAdults": 24
+  },
+  {
+    "state": "Oklahoma",
+    "MentalHealthStatisticsRatesOfMentalIllness": 25.59,
+    "MentalHealthStatisticsAdultsWithAnxietyOrDepresion": 33.9,
+    "MentalHealthStatisticsAdultsWithSevereMentalIllness": 5.4,
+    "MentalHealthStatisticsOverallMentalHealthStandingYouthAdults": 32
+  },
+  {
+    "state": "Oregon",
+    "MentalHealthStatisticsRatesOfMentalIllness": 27.33,
+    "MentalHealthStatisticsAdultsWithAnxietyOrDepresion": 32.6,
+    "MentalHealthStatisticsAdultsWithSevereMentalIllness": 5.7,
+    "MentalHealthStatisticsOverallMentalHealthStandingYouthAdults": 45
+  },
+  {
+    "state": "Pennsylvania",
+    "MentalHealthStatisticsRatesOfMentalIllness": 19.68,
+    "MentalHealthStatisticsAdultsWithAnxietyOrDepresion": 32.8,
+    "MentalHealthStatisticsAdultsWithSevereMentalIllness": 4.9,
+    "MentalHealthStatisticsOverallMentalHealthStandingYouthAdults": 3
+  },
+  {
+    "state": "Rhode Island",
+    "MentalHealthStatisticsRatesOfMentalIllness": 24.12,
+    "MentalHealthStatisticsAdultsWithAnxietyOrDepresion": 25.1,
+    "MentalHealthStatisticsAdultsWithSevereMentalIllness": 5.1,
+    "MentalHealthStatisticsOverallMentalHealthStandingYouthAdults": 11
+  },
+  {
+    "state": "South Carolina",
+    "MentalHealthStatisticsRatesOfMentalIllness": 21.69,
+    "MentalHealthStatisticsAdultsWithAnxietyOrDepresion": 32.8,
+    "MentalHealthStatisticsAdultsWithSevereMentalIllness": 4.9,
+    "MentalHealthStatisticsOverallMentalHealthStandingYouthAdults": 29
+  },
+  {
+    "state": "South Dakota",
+    "MentalHealthStatisticsRatesOfMentalIllness": 21.25,
+    "MentalHealthStatisticsAdultsWithAnxietyOrDepresion": 24.7,
+    "MentalHealthStatisticsAdultsWithSevereMentalIllness": 5.3,
+    "MentalHealthStatisticsOverallMentalHealthStandingYouthAdults": 16
+  },
+  {
+    "state": "Tennessee",
+    "MentalHealthStatisticsRatesOfMentalIllness": 20.46,
+    "MentalHealthStatisticsAdultsWithAnxietyOrDepresion": 33.9,
+    "MentalHealthStatisticsAdultsWithSevereMentalIllness": 5.4,
+    "MentalHealthStatisticsOverallMentalHealthStandingYouthAdults": 33
+  },
+  {
+    "state": "Texas",
+    "MentalHealthStatisticsRatesOfMentalIllness": 17.96,
+    "MentalHealthStatisticsAdultsWithAnxietyOrDepresion": 35.4,
+    "MentalHealthStatisticsAdultsWithSevereMentalIllness": 4.3,
+    "MentalHealthStatisticsOverallMentalHealthStandingYouthAdults": 43
+  },
+  {
+    "state": "Utah",
+    "MentalHealthStatisticsRatesOfMentalIllness": 29.68,
+    "MentalHealthStatisticsAdultsWithAnxietyOrDepresion": 32.1,
+    "MentalHealthStatisticsAdultsWithSevereMentalIllness": 6.3,
+    "MentalHealthStatisticsOverallMentalHealthStandingYouthAdults": 42
+  },
+  {
+    "state": "Vermont",
+    "MentalHealthStatisticsRatesOfMentalIllness": 23.71,
+    "MentalHealthStatisticsAdultsWithAnxietyOrDepresion": 30.5,
+    "MentalHealthStatisticsAdultsWithSevereMentalIllness": 5.8,
+    "MentalHealthStatisticsOverallMentalHealthStandingYouthAdults": 5
+  },
+  {
+    "state": "Virginia",
+    "MentalHealthStatisticsRatesOfMentalIllness": 20.51,
+    "MentalHealthStatisticsAdultsWithAnxietyOrDepresion": 28.6,
+    "MentalHealthStatisticsAdultsWithSevereMentalIllness": 4.5,
+    "MentalHealthStatisticsOverallMentalHealthStandingYouthAdults": 19
+  },
+  {
+    "state": "Washington",
+    "MentalHealthStatisticsRatesOfMentalIllness": 25.51,
+    "MentalHealthStatisticsAdultsWithAnxietyOrDepresion": 31.3,
+    "MentalHealthStatisticsAdultsWithSevereMentalIllness": 5.5,
+    "MentalHealthStatisticsOverallMentalHealthStandingYouthAdults": 31
+  },
+  {
+    "state": "West Virginia",
+    "MentalHealthStatisticsRatesOfMentalIllness": 26.05,
+    "MentalHealthStatisticsAdultsWithAnxietyOrDepresion": 37.9,
+    "MentalHealthStatisticsAdultsWithSevereMentalIllness": 5.8,
+    "MentalHealthStatisticsOverallMentalHealthStandingYouthAdults": 37
+  },
+  {
+    "state": "Wisconsin",
+    "MentalHealthStatisticsRatesOfMentalIllness": 21.83,
+    "MentalHealthStatisticsAdultsWithAnxietyOrDepresion": 28.1,
+    "MentalHealthStatisticsAdultsWithSevereMentalIllness": 5.3,
+    "MentalHealthStatisticsOverallMentalHealthStandingYouthAdults": 7
+  },
+  {
+    "state": "Wyoming",
+    "MentalHealthStatisticsRatesOfMentalIllness": 23.63,
+    "MentalHealthStatisticsAdultsWithAnxietyOrDepresion": 32.3,
+    "MentalHealthStatisticsAdultsWithSevereMentalIllness": 5.5,
+    "MentalHealthStatisticsOverallMentalHealthStandingYouthAdults": 47
+  },
+  {
+    "state": "United States",
+    "MentalHealthStatisticsRatesOfMentalIllness": 20.757539352289548,
+    "MentalHealthStatisticsAdultsWithAnxietyOrDepresion": 32.240926569891464,
+    "MentalHealthStatisticsAdultsWithSevereMentalIllness": 4.898520308824357,
+    "MentalHealthStatisticsOverallMentalHealthStandingYouthAdults": null
+  }
+]
